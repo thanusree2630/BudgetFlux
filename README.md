@@ -15,6 +15,15 @@ The repository is organized as follows:
 - **requirements.txt**: Lists all necessary Python dependencies for the project.
 - **README.md**: This file, providing an overview and setup instructions.
 
+## Screenshots
+
+Take a look at the BudgetFlux interface in action:
+
+![Screenshot 3: Add / Update Expenses](images/im1.png)  
+*Form's interface that allows users to add new expenses or update existing ones easily.*
+
+![Screenshot 4: Expense Breakdown by Category and Month](images/new_im.jpg)  
+*Combined visual showing both category-wise and month-wise expense breakdowns for deeper financial insights.*
 
 ## Getting Started
 
